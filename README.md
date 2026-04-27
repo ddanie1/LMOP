@@ -31,7 +31,7 @@ These distributions are used to compute three measures of miscalibration:
 
 ## Pre-registration
 
-The study is pre-registered on AsPredicted ([#285824](https://aspredicted.org/9ry6nh.pdf)). All analyses use a significance threshold of *p* < .005 (Benjamin et al., 2018).
+The study is pre-registered on AsPredicted (NEED LINK). All analyses use a significance threshold of *p* < .005 (Benjamin et al., 2018).
 
 ## Repository Structure
 
