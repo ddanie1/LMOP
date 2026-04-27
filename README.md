@@ -37,7 +37,6 @@ The study is pre-registered on AsPredicted (NEED LINK). All analyses use a signi
 
 ```
 LMOP/
-├── AsPredicted #285824.pdf   # Pre-registration document
 ├── LMOP_cleaning.R           # Data cleaning & processing script
 ├── LMOP_analysis.R           # Hypothesis tests & visualization
 ├── LICENSE                   # MIT License
